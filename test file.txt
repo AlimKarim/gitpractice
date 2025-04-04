@@ -1,1 +1,1 @@
-test for git dddd with demo
+test for git with demo
